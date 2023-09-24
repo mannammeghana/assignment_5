@@ -1,0 +1,79 @@
+.box{
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+    border-color: black;
+    background-color: rgb(216, 228, 228);
+    object-fit: cover;
+}
+.boximg{
+    border-radius: 0px 20px;
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    object-fit: fill;
+}
+.box h1{
+    padding-left: 10px;
+    text-align: left;
+    font-weight: lighter;
+}
+.box p{
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bolder;
+}
+.box button{
+    margin: 10px;
+    border-radius: 20px;
+}
+.btn{
+    text-align: center;
+    border-radius: 20px;
+    font-weight: 100;
+    color: blue;
+    background-color: rgb(84, 142, 218);
+    margin-bottom: -10px;
+}
+.btn:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.box-1{
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+    border-color: black;
+    background-color: rgb(216, 228, 228);
+    object-fit: cover;
+}
+.boximg-1{
+    border-radius: 0px 20px;
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    object-fit: fill;
+}
+.box-1 h1{
+    padding-left: 10px;
+    text-align: left;
+    font-weight: lighter;
+}
+.box-1 p{
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.btn-1{
+    text-align: center;
+    border-radius: 20px;
+    font-weight: 100;
+    color: blue;
+    background-color: rgb(84, 142, 218);
+    margin-bottom: -10px;
+}
+.btn-1:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
